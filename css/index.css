@@ -1,9 +1,9 @@
 @font-face {font-family: "iconfont";
-  src: url('iconfont.eot?t=1506416243631'); /* IE9*/
-  src: url('iconfont.eot?t=1506416243631#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('data:application/x-font-woff;charset=utf-8;base64,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') format('woff'),
-  url('iconfont.ttf?t=1506416243631') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1506416243631#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1507687263014'); /* IE9*/
+  src: url('iconfont.eot?t=1507687263014#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,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') format('woff'),
+  url('iconfont.ttf?t=1507687263014') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1507687263014#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .iconfont {
@@ -19,6 +19,8 @@
 .icon-tel:before { content: "\e600"; }
 
 .icon-name:before { content: "\e661"; }
+
+.icon-youxiang:before { content: "\e620"; }
 
 
 body, html {
@@ -46,7 +48,8 @@ input, textarea {
 	list-style: none;
 	position: fixed;
 	right: 15px;
-	bottom: 0px;
+	bottom: 45px;
+	z-index: 9999999;
 }
 
 .list_box>li {
@@ -54,30 +57,31 @@ input, textarea {
 	height: 41px;
 	margin-bottom: 8px;
 	border-radius: 50%;
+	
 }
 
 .list_box>li:nth-child(6) {
-	animation: bounceInDown 0.4s;
+	animation: bounceInDown 0.6s ease-out;
 }
 
 .list_box>li:nth-child(5) {
-	animation: bounceInDown 0.6s;
+	animation: bounceInDown 0.8s ease-out;
 }
 
 .list_box>li:nth-child(4) {
-	animation: bounceInDown 0.8s;
+	animation: bounceInDown 1s ease-out;
 }
 
 .list_box>li:nth-child(3) {
-	animation: bounceInDown 1s;
+	animation: bounceInDown 1.2s ease-out;
 }
 
 .list_box>li:nth-child(2) {
-	animation: bounceInDown 1.2s;
+	animation: bounceInDown 1.4s ease-out;
 }
 
 .list_box>li:nth-child(1) {
-	animation: bounceInDown 1.4s;
+	animation: bounceInDown 1.6s ease-out;
 }
 
 /* 侧边结束*/
@@ -97,9 +101,9 @@ input, textarea {
 		transform: translateY(30px);
 	}
 	80% {
-		-webkit-transform: translateY(-10px);
-		-ms-transform: translateY(-10px);
-		transform: translateY(-10px);
+		-webkit-transform: translateY(-40px);
+		-ms-transform: translateY(-40px);
+		transform: translateY(-40px);
 	}
 	100% {
 		-webkit-transform: translateY(0);
@@ -119,6 +123,7 @@ input, textarea {
 	padding-top: 5px;
 	text-align: center;
 	border-top: 1px solid #c9c9c9;
+
 }
 /*总弹出框*/
 .modelBox{
@@ -130,9 +135,24 @@ input, textarea {
 	background: rgba(0,0,0,0);
 	perspective: 1000;
 	animation: bounceInDown 1s;
+	z-index: 9999999;
+	
 }
 .modelRelation{
 	display: none;
+	
+}
+.bg{
+	width: 25px;
+	height: 25px;
+	background: url(../img/X.png) no-repeat;
+	background-size: 100%;
+	z-index: 10000;
+	position: absolute;
+	top:-28px;
+	right: -28px;
+	border-top: none !important;
+
 }
 /*h1头部*/
 .modelBox h1 {
@@ -143,6 +163,8 @@ input, textarea {
 	padding-bottom: 10px;
 	text-align: center;
 	border-bottom: 1px solid #c9c9c9;
+	position: relative;
+	
 }
 .model_sub>button{
 	width: 100%;
@@ -164,6 +186,7 @@ input, textarea {
 	align-items: center;
 	transition: 1.5s;
 	transform-style: preserve-3d;
+	
 
 }
 .model_translateX>div{
@@ -176,6 +199,7 @@ input, textarea {
     border-radius: 5px;
     padding: 15px 15px 5px ;
     box-shadow: 0 0 5px 2px #999;
+    
 }
 /*二维码*/
 .model_relation{transform: rotateY(180deg);display: none;}
@@ -191,7 +215,9 @@ input, textarea {
 	width: 45px;
   height: 45px;
 }
-
+.model_QRcode{
+	
+}
 /*电话*/
 .model_QRcode .QRcode_tel{
 	position: relative;
@@ -221,7 +247,7 @@ input, textarea {
 	text-align: center;
 	background: #fff;
 }
-.model_QRcode .QRcode_phone>ol{
+.model_QRcode .QRcode_phone>.phone_list{
 	width: 100%;
 	list-style: none;
 	margin: 0;
@@ -229,9 +255,8 @@ input, textarea {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
-
 }
-.model_QRcode .QRcode_phone>ol>li{
+.model_QRcode .QRcode_phone>.phone_list>li{
 	width: 30%;
 	height: 30%;
 	text-align: center;
@@ -239,6 +264,7 @@ input, textarea {
 	border: 1px solid #c2c5c5;
 	margin-bottom: 10px;
 	border-radius: 8px;
+	box-shadow:  0 0 5px 2px #f8f8f8 inset;
 }
 
 /*免费电话结束*/

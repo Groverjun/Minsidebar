@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style type="text/css">
+			.textBox{
+				display: flex;
+				position: relative;
+			}
+			.text{
+				width: 150px;
+				overflow:hidden ;
+				text-overflow : ellipsis ;
+				white-space: nowrap;
+			}
+			.text span{
+				right: 0;
+				top: 0;
+				z-index: 10;
+			}
+			.textBox p{
+				margin: 0;
+				position: absolute;
+				width:200px;
+				height: 100px;
+				background: #ffffff;
+				top: 0;
+				left: 0;
+				display: none;
+			}
+		</style>	
+	</head>
+	
+	<body>
+		<div class="textBox">
+			<div class="text">
+				文：千松雪 浪费生命的感觉，真好。 2017年10月9日 星期一 阴 不知道从什么时候开始，
+				我渐渐地有了失眠这个坏毛病。 明明每天十点半就躺在了床上，可是早一
+			</div>
+			<a href="#">更多</a>
+			<p>				
+				文：千松雪 浪费生命的感觉，真好。 2017年10月9日 星期一 阴 不知道从什么时候开始，
+				我渐渐地有了失眠这个坏毛病。 明明每天十点半就躺在了床上，可是早一
+			</p>
+		</div>
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	</body>
+	<script type="text/javascript">
+		
+	</script>
+</html>
